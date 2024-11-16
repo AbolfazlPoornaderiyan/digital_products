@@ -1,3 +1,8 @@
+venv/
 Lib/
 Scripts/
+include/
 *.cfg
+**/__pycache__/
+*.pyc
+.idea/
