@@ -2,7 +2,10 @@ venv/
 Lib/
 Scripts/
 include/
+.idea/
+media/
+
 *.cfg
 **/__pycache__/
 *.pyc
-.idea/
+db.sqlite3
